@@ -1,8 +1,11 @@
 <h1 align="center">
-<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=hello%2C+world!;%F0%9F%91%8B+Hi%2C+I%E2%80%99m+%40minhw" alt="Typing SVG" /></a>
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=hello%2C+world!;%F0%9F%91%8B+Hi%2C+I%E2%80%99m+%40minhw&center=true" alt="Typing SVG" /></a>
 </h1>
 
 
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=iminhw&theme=xcode" />
+</div>
 <div align="center"> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iminhw&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
