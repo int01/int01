@@ -4,12 +4,13 @@
 
 
 <div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=iminhw&theme=xcode" />
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=iminhw&theme=dracula" />
 </div>
+<!---
 <div align="center"> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iminhw&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
-
+--->
 <!---
 iminhw/iminhw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
