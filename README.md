@@ -4,7 +4,7 @@
 
 
 <div align="center">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=iminhw&theme=dracula" />
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=iminhw&theme=tokyo-night" />
 </div>
 <!---
 <div align="center"> 
