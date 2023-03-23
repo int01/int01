@@ -1,10 +1,10 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=hello%2C+world!;%F0%9F%91%8B+Hi%2C+I%E2%80%99m+minhw.&center=true" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=hello%2C+world!;%F0%9F%91%8B+Hi%2C+I%E2%80%99m+int01.&center=true" alt="Typing SVG" />
 </h1>
 
 <!---
 <div align="center">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=iminhw&theme=tokyo-night&hide_title=true" />
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=int01&theme=tokyo-night&hide_title=true" />
 </div>
 
 <div align="center"> 
